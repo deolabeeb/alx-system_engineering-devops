@@ -1,1 +1,1 @@
-Permiting everybody
+Changing the owner if only
